@@ -1,0 +1,6 @@
+C:\Users\JunQi\Downloads\Temp plugin folder\source code\src\callvote\CallVote-master\obj\Debug\CallVote.csprojAssemblyReference.cache
+C:\Users\JunQi\Downloads\Temp plugin folder\source code\src\callvote\CallVote-master\obj\Debug\CallVote.csproj.CoreCompileInputs.cache
+C:\Users\JunQi\Downloads\Temp plugin folder\source code\src\callvote\CallVote-master\bin\Debug\B.A.CallVote.dll
+C:\Users\JunQi\Downloads\Temp plugin folder\source code\src\callvote\CallVote-master\bin\Debug\B.A.CallVote.pdb
+C:\Users\JunQi\Downloads\Temp plugin folder\source code\src\callvote\CallVote-master\obj\Debug\B.A.CallVote.dll
+C:\Users\JunQi\Downloads\Temp plugin folder\source code\src\callvote\CallVote-master\obj\Debug\B.A.CallVote.pdb
